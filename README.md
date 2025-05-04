@@ -1,23 +1,33 @@
-# A Rat's Life - Solo Tactics Field Manual
-The Ultimate Guide to Stealth, Sabotage and Solo Operations in Arma Reforger
+# A Rat's Life — Solo Tactics Field Manual
+The Ultimate Guide to Stealth, Sabotage, and Solo Operations in Arma Reforger or any large-scale FPS of your choosing.
 ## FOREWORD
 
-Welcome. If you're reading this, you're ready to learn the ways of the Rats - a brotherhood of players who master the art of lone wolf, commando-style sabotage in large-scale tactical shooters. If you enjoy playing squad based games largely on your own for whatever reason, and enjoy sneaking around causing trouble then this guide is for you. I will show you how to operate solo in large-scale shooters while still positively contributing to your team and the game state. In fact, applying these tactics well will make your solitary vermin-adventures worth more than a handful of hapless squaddies.
+Welcome. If you're reading this, you're ready to learn the ways of the Rats — a brotherhood of players who master the art of lone wolf, commando-style sabotage in large-scale tactical shooters. If you enjoy playing squad-based games largely on your own for whatever reason, and enjoy sneaking around causing trouble, then this guide is for you. I will show you how to operate solo in large-scale shooters while still positively contributing to your team and the game state. In fact, applying these tactics well will make your solitary vermin-adventures worth more than a handful of hapless squaddies.
 
 Solo players are underserved when it comes to guides in tactical shooters. While squad tactics dominate most guides, this handbook fills that crucial gap for those of us who prefer to chill on our own in games. Whether you're a dedicated Rat, a separated squad member, or simply looking to sharpen your solo skills, you'll find everything you need to make a decisive impact while operating alone in Arma Reforger and similar large-scale FPS games.
 
-The tactics within this guide draw from declassified infantry manuals which I have adapted specifically for the reality of gaming. For example - real-world doctrine tells soldiers to use SLLS - Stop, Look, Listen, Smell - when patrolling. Since Arma Reforger lacks smellovision, I've streamlined this to SLL: Stop, Look, Listen. Throughout this guide, you'll find similar practical adjustments that bridge the gap between real-world doctrine and our virtual escapades.
+The tactics within this guide draw from declassified infantry manuals, which I have adapted specifically for the reality of gaming. For example: real-world doctrine tells soldiers to use SLLS: Stop, Look, Listen, Smell when patrolling. Since Arma Reforger lacks smellovision, I've streamlined this to SLL: Stop, Look, Listen. Throughout this guide, you'll find similar practical adjustments that bridge the gap between real-world doctrine and our virtual escapades.
 
-You'll note that the infantry manuals you can find online are almost exclusively dedicated to squad operations. Even snipers work in teams. The challenges we face as solo operators in Reforger are rarely documented, I've stripped down squad tactics to their solo essentials, borrowed concepts from other military disciplines, and pressure-tested everything in actual gameplay over two decades of being a sweaty Rat.
+You'll note that the infantry manuals you can find online are almost exclusively dedicated to squad operations. Even snipers work in teams. The challenges we face as solo operators in Reforger are rarely documented. So I've stripped down squad tactics to their solo essentials, borrowed concepts from other military disciplines, and pressure-tested everything in actual gameplay over two decades of being a sweaty Rat.
 
-You'll discover here authentic military principles reimagined for the solo operator, combined with game-specific tactics for Arma Reforger that actually work. This isn't a copy-paste job from field manuals, nor is it pure military simulation. It's a practical guide for dominating as a lone wolf in tactical shooters.
+— toast
 
 ### CHANGELOG
-This guide is written to be re-iterated and improved upon. My long term goal is to have this be THE comprehensive tactical guide for solo players in tactical game akin to Arma Reforger, with a focus on stealth, sabotage, subterfuge and generally sneaky, annoying tactics hence the name 'Rat'.
+This guide is written to be iterated and improved upon. My long-term goal is to have this be THE comprehensive tactical guide for solo players in tactical games akin to Arma Reforger, with a focus on stealth, sabotage, subterfuge and generally sneaky, annoying tactics, hence the name 'Rat'.
 
-You can follow development of the guide here - https://github.com/verybadracer/arma-reforger-tactical-manual as I work on it pending Steam releases.
+You can follow the development of the guide here:
+https://github.com/verybadracer/arma-reforger-tactical-manual 
 
 v1.0 -
+
+#### PLANNED UPDATES
+
+- Vehicle Tactics
+- Hit box diagrams for all vehicles
+
+#### Suggestions?
+
+If you have any suggestions on topics or tips to add from your Rat operations, please comment them below or into the discussions on GitHub. If your ideas are implemented into the guide, I will credit you in the new version of the guide.
 
 
 ---
@@ -26,17 +36,17 @@ v1.0 -
 
 ## What is a 'Rat'?
 
-**"Rat"** - the name captures the spirit of how we operate and how we are perceived. We call ourselves Rats because we are meant to be hated. We are vermin in the enemy's rear, chewing through their resources, ambushing their friends and vanishing before they can retaliate. When they do catch us, we reappear just as quickly as we were exterminated, ready to annoy again.
+**“Rat”**: the name captures the spirit of how we operate and how we are perceived. We call ourselves Rats because we are meant to be hated. We are vermin in the enemy's rear, chewing through their resources, ambushing their friends and vanishing before they can retaliate. When they do catch us, we reappear just as quickly as we were exterminated, ready to annoy again.
 
-In Arma Reforger, "Ratting" is the art of operating deep behind enemy lines, fulfilling the role of a commando or saboteur. The Rat acts largely alone or in small cells, leveraging sabotage, ambushes, theft and nuisance to destabilise and harass enemy forces. Their goal is not to seize territory by force of arms, but to erode enemy logistics, morale and operational coherence through persistent, unpredictable harassment.
+In Arma Reforger, “Ratting” is the art of operating deep behind enemy lines, fulfilling the role of a commando or saboteur. The Rat acts largely alone or in small cells, leveraging sabotage, ambushes, theft, and nuisance to destabilise and harass enemy forces. Their goal is not to seize territory by force of arms, but to erode enemy logistics, morale and operational coherence through persistent, unpredictable harassment.
 
-Basically - be as annoying and destructive as you can without being seen and without dying.
+Basically — be as annoying and destructive as you can without being seen and without dying.
 
 We are the single operator who distracts large amounts of resources from the enemy into dealing with you rather than winning the game. Rats do not fight fair, ever. They lurk in the shadows, strike without warning and disappear before the enemy can comprehend what has happened.
 
-Rats have received their namesake in part because their playstyle demands scavenging. They live off the battlefield, arming themselves with whatever they can recover from the dead, whether by their own hand or someone else's.
+Rats have received their namesake in part because their playstyle demands scavenging. They live off the battlefield, arming themselves with whatever they can recover from the dead, whether by their hand or someone else's.
 
-Your enemies will curse you. They will call you cowards. And in that moment when you hear their frustration spill out over Platoon chat on a radio you stole from one of their own, you will know you're doing your job right.
+Your enemies will curse you. They will call you cowards. At that moment when you hear their frustration spill out over Platoon chat on a radio you stole from one of their own, you will know you're doing your job right.
 
 The term 'Rat' as we know it currently came from Escape from Tarkov (see seminal educational video — [https://youtu.be/o286LaBz__Y](https://youtu.be/o286LaBz__Y)), but the philosophy has since spread far beyond.
 
@@ -48,15 +58,15 @@ Rats deploy themselves to the battlefield and engage in clandestine operations t
 
 - Delay or destroy reinforcing enemy forces through ambushes and route denial.
 
-- Disrupting enemy operations by ambushing or sabotaging high value vehicles like helicopters and tanks.
+- Disrupting enemy operations by ambushing or sabotaging high-value vehicles like helicopters and tanks.
 
 - False flag operations using enemy uniforms for infiltration and ambush (but beware of XP penalties in Patch 1.3).
 
-- Radio theft and psychological operations - stealing enemy radios to monitor communications and, where permitted by server rules, broadcasting on enemy frequencies to sow confusion and chaos (without being abusive).
+- Radio theft and psychological operations — stealing enemy radios to monitor communications and, where permitted by server rules, broadcasting on enemy frequencies to sow confusion and chaos (without being abusive).
 
 - Locating and destroying enemy radio backpacks to eliminate their mobile spawn points.
 
-- Force the enemy to overcommit resources like manpower, vehicles and time to deal with an elusive, low cost vermin-like threat.
+- Force the enemy to overcommit resources like manpower, vehicles, and time to deal with an elusive, low cost vermin-like threat.
 
 - Solo-cap objectives and while doing so, deconstruct base assets to frustrate enemy efforts and waste their supplies
 
@@ -72,13 +82,13 @@ Rats deploy themselves to the battlefield and engage in clandestine operations t
 
 A Rat must reject the conventional battlefield ego of the average FPS player. This playstyle is not for those who seek glory, heroic last stands, or kill counts for their own sake.
 
-The Rat embraces cowardice as virtue. Running without shame. Hiding without honour. Striking only when victory is certain. This mindset demands total suppression of the ego that drives most players to "prove themselves" in fair fights.
+The Rat embraces cowardice as virtue. Running without shame. Hiding without honour. Striking only when victory is certain. This mindset demands total suppression of the ego that drives most players to “prove themselves” in fair fights.
 
-To Rat effectively, you must prioritise survival above all else. Each spawn costs precious supplies - whether through vehicles or radio backpacks. Death is failure, not sacrifice. The dead Rat disrupts nothing.
+To Rat effectively, you must prioritise survival above all else. Each spawn costs precious supplies — whether through vehicles or radio backpacks. Death is failure, not sacrifice. The dead Rat disrupts nothing.
 
 **The Rat thinks constantly.** Too many players spawn, kit up, jump in a vehicle, and drive blindly toward their objective only to be annihilated on the way. This is not Ratting; this is feeding. Every movement demands consideration: Which routes avoid likely ambush points? Where might enemy Rats be operating? What escape routes exist if contact is made? The thoughtless Rat is a dead Rat.
 
-**The Rat maintains purpose.** Sneaking around an objective outside radio range serves no one. Hiding in a bush 2km from anything of strategic value is not infiltration - it's desertion. Before every action, ask: "How does this help my team win?" If you cannot answer, you are not Ratting. Every position must threaten something the enemy values or enable something your team needs.
+**The Rat maintains purpose.** Sneaking around an objective outside radio range serves no one. Hiding in a bush 2 km from anything of strategic value is not infiltration — it's desertion. Before every action, ask: “How does this help my team win?” If you cannot answer, you are not Ratting. Every position must threaten something the enemy values or enable something your team needs.
 
 Rats do not fight fairly. They do not engage unless holding an overwhelming advantage. When surprised, they flee immediately. When cornered, they evade. There is no shame in retreat, only in unnecessary death.
 
@@ -91,7 +101,7 @@ While psychology governs the Rat's mindset, operational philosophy guides their 
 
 This requires ruthless prioritisation. Random kills and aimless wandering wastes time and resources. Every action must advance strategic objectives that weaken the enemy's ability to win.
 
-Effective target selection demands map awareness and predictive thinking. Consider likely supply routes, identify reinforcement patterns and locate critical objectives. Flipping the right objective can cut off half the map from comms. An ambushed supply truck can starve a forward position and prevent the enemy respawning to defend. A well set ambush position can provide the buffer your team need to cap a point.
+Effective target selection demands map awareness and predictive thinking. Consider likely supply routes, identify reinforcement patterns, and locate critical objectives. Flipping the right objective can cut off half the map from comms. An ambushed supply truck can starve a forward position and prevent the enemy respawning to defend. A well set ambush position can provide the buffer your team need to cap a point.
 
 Consider: that enemy helipad might be a tempting target, but is it currently active? That sniper might be an easy kill, but are they actually affecting the battle? The disciplined Rat constantly evaluates:
 
@@ -99,7 +109,7 @@ Consider: that enemy helipad might be a tempting target, but is it currently act
 - Where is the enemy most vulnerable?
 - How can one action cascade into multiple problems?
 
-When priorities shift, the Rat adapts immediately. Clinging to outdated objectives is tactical malpractice, if you haven't seen any enemies in a while then its time to move. Thanks to radio backpacks, relocation is simple. When conditions change, pack up and redeploy without hesitation.
+When priorities shift, the Rat adapts immediately. Clinging to outdated objectives is tactical malpractice, if you haven't seen any enemies in a while, then it's time to move. Thanks to radio backpacks, relocation is simple. When conditions change, pack up and redeploy without hesitation.
 
 A single Rat, correctly positioned and properly focused, becomes a force multiplier.
 
@@ -110,134 +120,160 @@ A single Rat, correctly positioned and properly focused, becomes a force multipl
 
 Patch 1.3 fundamentally altered disguise operations. Previously, Rats could wear enemy uniforms and engage targets without penalty and still grind XP. 
 
-The new system tracks what your wearing and which team your dressed as. Kill while wearing enemy colours and you receive an increased friendly fire penalty. You will be demoted through the ranks ultimately reaching _Renegade_ status. Renegades lose all arsenal access to **any** arsenal, friend or foe. This is important because a Rat may rely on the enemy arsenal in bases they sneak into to resupply from, reducing them to pure scavengers. Some servers will also kick Renegade ranked players automatically.
+The new system tracks what you are wearing and which team you're dressed as. Kill while wearing enemy colours and you receive an increased friendly fire penalty. You will be demoted through the ranks, ultimately reaching _Renegade_ status. Renegades lose all arsenal access to **any** arsenal, friend, or foe. This is important because a Rat may rely on the enemy arsenal in bases they sneak into to resupply from, reducing them to pure scavengers. Some servers will also kick Renegade ranked players automatically.
 
-**Disguises remain viable - but require new discipline:**
+Nametags have also been buffed in that they now appear when players are using binoculars, meaning it is much easier to spot someone in disguise than it used to be — this means the meta of hiding in plain sight is now basically dead.
 
-- Use for passive infiltration only
-- Avoid combat while disguised
+**Disguises remain viable — but require new discipline:**
+
+- Use for passive infiltration only.
+- Avoid combat while disguised.
 - If you are going to carry out ops in disguise, accept the XP loss.
 
 These changes mean the era of Ratting in disguise is mostly out of the window and the new golden era of Ratting begins.
 
 ---
 
-# II. FIELDCRAFT & MOVEMENT 
-> "If the enemy can see you and you are within range of his weapon system, he can engage and possibly kill you. So, you must be concealed from enemy observation and have cover from enemy fire. When the terrain does not provide natural cover and concealment, you must prepare your cover and use natural and man-made materials to camouflage yourself, your equipment, and your position."
+# II. FIELDCRAFT
+> “If the enemy can see you, and you are within range of his weapon system, he can engage and possibly kill you. So, you must be concealed from enemy observation and have cover from enemy fire. When the terrain does not provide natural cover and concealment, you must prepare your cover and use natural and man-made materials to camouflage yourself, your equipment, and your position.”
 > 
 > The Warrior Ethos & Combat Skills
 
-The use of concealment and cover is an essential infantryman technique that has kept soldiers alive for hundreds of years. Rats, as solo operators out in the field rely on cover and concealment more than a squad of soldiers who can rely on covering fire and violence of action in the event of discovery.
+The use of concealment and cover is an essential infantryman technique that has kept soldiers alive for hundreds of years. Rats, as solo operators out in the field, literally live and die by their aptitude to identify and stick to proper cover and concealment.
 
-A good rat remains unseen, the use of cover and concealment is critical to this endeavour.
-## 1. Utilizing Cover and Concealment
+## 1. Utilising Cover and Concealment
 
-### Natural vs. Man-made Cover
-Natural cover includes logs, trees, stumps, rocks, ravines, hills, cliffs, and other terrain features that can physically shield the body from enemy fire or observation.
+Cover protects you from enemy fire. Concealment hides you from enemy observation. Neither guarantees both.
 
-Man-made cover includes trenches, fighting positions, sandbag emplacements, vehicles (destroyed or intact), and other structures placed or left in the environment.
+Natural cover includes terrain features like rocks, hills, and trees. Man-made cover includes trenches, sandbags, and vehicles. When the terrain offers neither, camouflage becomes your only option — match your uniform and equipment to the environment.
 
-In situations where the terrain provides insufficient cover or concealment, the Rat must rely entirely on camouflage. This refers to the colour, pattern, and silhouette of the uniform and equipment, and how effectively it blends with the immediate environment. Rats must always consider their surroundings and adapt their position to maximise blending and minimise contrast against the background.
-### Concealment Fundamentals
-Concealment is anything that hides you from enemy observation. Concealment does not protect you from enemy fire. Do not think you are protected from the enemy's fire just because you are concealed. Concealment, like cover, can also be natural or soldier made.
+Concealment in Arma Reforger consists mainly of bushes, grass, and shadows. 
 
-Natural concealment in Arma Reforger includes bushes, grass and shadows.
+**There's a catch:** grass and shadows render at player-defined distances for performance reasons. While you're lying “concealed” in tall grass, enemies with low graphics settings see you sprawled in open ground. This affects most tactical shooters, not just Reforger.
 
-**A note on grass and concealment limitations in video games:**
+***Assume all grass is invisible — it is useless to you as concealment!***
 
-Most video games, including Arma Reforger, render grass and shadows at a player-defined distances. This is primarily to reduce performance costs, particularly in large-scale environments. As a result, players with lower graphical settings may not see grass or shadows at all beyond a short distance.
-
-This creates a critical disparity: you may believe you are concealed when lying prone in tall grass or in a shaded, but to an enemy player with reduced foliage or shadow settings, you will appear as if you are lying exposed.
-
-This limitation affects not only Arma Reforger but many other tactical shooters. Some games enforce shadows on their players but many do not do the same for grass. Grass concealment cannot be relied upon. When in doubt, favour hard cover or terrain depression over vegetation.
+Some games force shadow rendering, but grass remains optional. You can't rely on vegetation for concealment. When in doubt, use hard cover or terrain depressions instead.
 
 ### Silhouette and Skylining
 
-Silhouetting occurs when a Rat’s outline is visible against a contrasting background, making detection likely even at distance. Moving across open ground without cover creates a distinct shape the enemy can easily spot. Skylining is a specific form of silhouetting that happens when a Rat moves along the crest of a hill or ridge. Against the lighter sky, the body forms a clear, dark outline, presenting a perfect target.
+Silhouetting / Skylining occurs when a Rat’s outline is visible against a contrasting background, making detection likely even at a distance. Moving across open ground without cover creates a distinct shape the enemy can easily spot. Skylining is a specific form of silhouetting that happens when a Rat moves along the crest of a hill or ridge. Against the lighter sky, the body forms a clear, dark outline, presenting a perfect target.
 
 To avoid this, Rats must move below the tops of hills and ridgelines whenever possible, staying against broken backgrounds such as vegetation or uneven terrain. Pausing on high ground must be avoided; even brief exposure can betray a Rat’s position. Darkness offers no protection — figures against the night sky remain easily visible.
 
 A Rat who fails to control their silhouette will be seen. A Rat who is seen will be killed.
 
-### Camera View, Posture, Concealment and Cover
+### Camera View, Posture, Concealment, and Cover
 
-Multiplayer servers in Arma Reforger are configured to either enforce first-person-only play or allow a combination of first- and third-person views. Upon joining a server, always confirm the view setting in use, you can do this by hitting the change perspective key or button you have mapped, if the view changes from 1 st to 3 rd person, your on a 3 rd person server, if you can't leave 1 st person perspective, your on a 1 pp server. Being aware of what mode the server is on will change the options available to you.
+Arma Reforger's multiplayer servers can be set up to either only allow first-person gameplay or to support both first- and third-person perspectives. Always check the view setting that is being used when you join a server. You can do this by pressing the mapped change perspective key or button. If the view switches from first to third person, you are on a third-person server; if you are unable to switch back to the third-person view, you are on a first person server. What you can do in concealment and cover will be affected largely by the view modes available to you.
 
-Some players prefer first-person view exclusively. Others will take full advantage of third-person mode and play in a hybrid of 1 pp and 3 pp. The most significant advantage of third-person view is **third-person peeking**, that is the ability to see over or around cover without exposing your body. This provides a clear field of vision while denying the enemy the opportunity to engage. In terms of tactical leverage, this is considerable.
+Some players prefer to use first-person view exclusively. Others will take full advantage of third-person mode and play in a hybrid of 1pp and 3pp (1st / 3rd Person Perspective). The most significant advantage of third-person view is **third-person peeking**, that is the ability to see over or around cover without exposing your body. This provides a clear field of vision while denying the enemy the opportunity to engage. In terms of tactical leverage, this is considerable.
 
-Rats do not fight fair. If the server allows third-person view, you are expected to use it. Every player in the server has access to the same tools. Choosing not to use third-person peeking when it is available is a self-imposed handicap.
+Rats do not fight fair. If the server allows third-person view, you are expected to use the third-person peek. Every player on the server has access to the same tools and, especially on consoles, the vast majority of players will be doing the same thing. Choosing not to use third-person peeking when it is available is a self-imposed handicap.
 
-Posture control is a critical component of concealment and visual discipline. In Arma Reforger, you can adjust your character’s stance incrementally using the Control key and scroll wheel. Each base stance, standing, crouching and prone can be fine-tuned through several sub-levels.
+**Posture Controls** are a critical component of concealment and visual discipline. In Arma Reforger, you can adjust your character’s stance incrementally using the Control key and scroll wheel. Each base stance, standing, crouching and prone can be fine-tuned through several sublevels, like this:
 
-Simply - you should configure your character to be as low as possible while still maintaining the camera height benefits of the stance 'mode' you are currently in. The **standing stance** provides the highest third-person camera elevation, offering the broadest field of view. However, this also exposes the largest silhouette. By adjusting your posture to the **lowest possible setting within the standing stance**, you retain the high camera perspective while significantly reducing your visible profile. This allows you to observe your surroundings from cover with reduced risk of exposure.
+```
+STANDING    ┌─ Level 5 (tallest)
+            ├─ Level 4
+            ├─ Level 3
+            ├─ Level 2
+            └─ Level 1 (lowest) ← Best for 3PP peeking
 
-The crouched and prone postures offer reduced height and improved concealment, but with corresponding decreases in mobility and camera elevation. In third-person view, the camera lowers as your posture changes from standing to crouched to prone, reducing your observational advantage. In first-person view, posture adjustments still provide effective silhouette management but without the benefit of extended visual range.
+CROUCHING   ┌─ Level 5 (tallest)
+            ├─ Level 4
+            ├─ Level 3
+            ├─ Level 2
+            └─ Level 1 (lowest)
 
-Prior to movement, ensure your posture is set appropriately. When movement stops, your character will automatically resume that pre-set posture unless you changed from one stance to another in which case it resets. This enables efficient transitions between movement and concealment without added input.
+PRONE       (Single height only)
+```
+
+**The Golden Rule: Go as low as possible while keeping the camera advantage.**
+
+Simply — you should configure your character to be as low as possible while still maintaining the camera height benefits of the stance 'mode' you are currently in. The **standing stance** provides the highest third-person camera elevation, offering the broadest field of view. However, this also exposes the largest silhouette and target for the enemy. By adjusting your posture to the **lowest possible setting within the standing stance**, you retain the high camera perspective while significantly reducing your visible profile. This allows you to observe your surroundings from cover with reduced risk of exposure.
+
+The crouched, and prone postures offer reduced height and improved concealment, but with corresponding decreases in mobility and camera elevation. In third-person view, the camera lowers as your posture changes from standing to crouched to prone, reducing your observational advantage.
+
+When moving, remember **that your character keeps its height setting when you stop — unless you switch between standing/crouching/prone, which resets it to default.** That means if you are in a low crouch when you sprint crouch from cover to cover, when you stop, your character model will resume at the 'level' you were at before you moved.
 ### Hiding in Bushes
 
-Hiding in foliage is a foundational tactic in any Arma title for both concealment and ambush preparation. Both Russian and American standard uniforms use muted green and brown tones, with U.S. camouflage leaning more heavily toward disruptive patterning. These colour schemes blend effectively with the natural foliage assets of Arma Reforger, particularly within bushes, shrubs, and undergrowth.
+Bush concealment is fundamental in Arma and a trick as old as time. As a Rat you will depend on hiding within bushes on a very regular basis to go unseen. Often, hiding in a bush concealment in plain view of the enemy is safer than hiding behind cover in terms of not being detected. Both Russian and American uniforms blend well with Reforger's foliage, especially the US disruptive patterns.
 
-Bush concealment relies on two factors: correct positioning and control of the camera view. It is a powerful technique on both first-person (1 PP) and third-person (3 PP) servers, but is significantly stronger in third-person environments due to increased observational capabilities.
+Two factors determine success: positioning and camera control. This technique works on both server types but excels in third-person for the obvious reasons.
 
-A well-established concealment method is to enter a bush and adopt a crouched stance. Crouching provides the best balance between reduced silhouette and practical visibility. In 3 PP, this offers elevated camera positioning above the foliage, allowing greater field of view while keeping the body masked. In 1 PP, visibility is dependent entirely on line of sight from the player’s actual position, and the choice between crouch or prone becomes situational.
+**Basic Technique:**
 
-Operators must assess the environment carefully. In dense or low foliage, crouching will generally offer superior concealment. However, in some cases, lying prone may grant better visual coverage toward likely enemy approach vectors. The risk is that prone posture often results in exposed legs or gear sticking out beyond the bush line, particularly from flanking angles. Crouching remains the preferred default in both 1 PP and 3 PP unless specific terrain features justify otherwise.
+1. Enter bush and crouch — provides the best balance of concealment and visibility.
+2. Lower your stance further with Ctrl + scroll wheel.
+3. Aim weapon downward to tuck your profile into foliage.
+4. Double-tap Left Ctrl for weapon low-ready (reduces barrel exposure).
+5. Hold Alt for free look (observe without moving).
+6. Double-tap Alt to lock free look for extended observation.
 
-Optimal Concealment Technique:
+**Third-Person Advantages:** Crouching in 3PP keeps your camera elevated above foliage while your body stays hidden. In 1PP, you only see what your character sees, so you have to give up concealment for the sake of visibility.
 
-While crouched inside a bush, lower your poster with ctrl + scroll wheel, then lower your weapon by aiming downward. This tucks the head and upper body inward, significantly reducing your visible profile and blending your silhouette with the foliage.
+**First-Person Considerations:**
 
-Press Left Control twice to place your weapon into the lowered ready position. This further reduces barrel exposure beyond the edge of the bush, improving concealment against enemy visual scans.
+- Position deep enough that foliage obscures your upper body and partially obscures your view, that way you know your chest / weapon are not sticking obviously out of the brush.
+- Accept some visual obstruction — clear view means you're exposed, branches and leaves should be in your way.
+- Be more mindful of your weapon barrel and where it is sticking out, adopting the low ready position can help.
 
-Hold Alt to enter free look mode. This allows you to rotate your view independently of your body orientation, maintaining full environmental awareness without movement that could betray your position.
+**Tactical Trade-offs:** If lowering your weapon to improve concealment just bear in mind it leads to a reactionary gap. In low-risk areas, prioritise concealment. In high-risk zones, keep weapon ready despite the larger profile.
 
-Double-tap Alt to lock free look mode if you intend to maintain observation over an extended period.
+**Key Warnings:**
+1. Prone positioning often exposes legs beyond the bush edge, particularly to flanking enemies hence why crouching is almost universally better.
+2. Your weapon barrel can betray your position even when your body is well-concealed. 
+3. Remember that bushes provide no protection from incoming fire — they hide you, they don't shield you. 
+4. Your concealment needs will vary depending on your mission: total invisibility for reconnaissance may require accepting heavy visual obstruction, while ambush positions demand a balance between concealment and clear firing lines.
 
-On 1 pp only servers, bush concealment remains equally effective but demands greater care in positioning lest the Rat stick out of their hiding spot and meet their demise.
-
-- Your character model must be deep enough into the bush that your upper body and head are obscured by leaves and branches. Some natural obstruction of your view is necessary; if you have an entirely clear view, you are likely too exposed.
-
-- You must also account for the position of your weapon barrel. In first-person view, you cannot position yourself as deeply into the foliage as you might in third-person, or you will lose all meaningful visibility, although in certain ambush scenarios, this total concealment may be desirable. If your weapon barrel extends beyond the edge of the bush, it will be clearly visible to enemies at a flanking angle. To reduce the risk of detection while observing, lower your weapon using Left Control to place it into the low-ready position.
-
-- Free look remains available in 1 PP and should be used to maintain observation without moving your body position.
-
-Remember that in first-person, your visibility is exactly what your character sees. Accept some visual obstruction as the cost of concealment.
-
-Rats must carefully balance concealment against readiness when bush hiding, especially considering a bush does nothing to stop you from being shot. Lowering the weapon or pointing it at the ground introduces a reaction gap. In the event of unexpected contact, the time required to raise the weapon to a firing position may be decisive. Rats must assess the tactical situation at all times. In areas of low risk or during passive reconnaissance, maximum concealment may be prioritised. In high-risk environments, where immediate engagement is possible, maintaining a ready weapon may outweigh the benefits of a slightly smaller profile.
+Hiding in bushes will allow you to hide in plain sight, often, the enemy will not see you until they are literally standing on top of you. I have had players walk over me in foliage and still not know I am there (somehow).
 ### Actions as Concealment
 
-Light discipline demands strict control of artificial light during night operations. Flashlights and vehicle headlights must be disabled unless absolutely necessary. Instead, Rats are expected to adjust their monitor's gamma settings to improve visibility during night operations. Some monitors also offer dedicated low-light or "night vision" modes that can be used for the same purpose. While some players may view gamma adjustment as unfair, it must be understood for what it is: a real-world adjustment to your screen settings, not an exploitation of the game itself. As the game currently stands, it is the only reliable method to maintain effective visibility in darkness without relying on light sources that compromise concealment. This practice is widespread. You are not gaining an unfair advantage; you are levelling the field. In asymmetric operations, survival depends on exploiting every available tool, and refusing to adapt simply hands the advantage to others. Rats do not fight fair. They fight to win. Adjust your settings without hesitation. Visibility is survival.
+Rats can do a lot to help their stealth capability by being wary and mindful of their actions and how they might give them away. Light discipline means not using your torch, turning off headlights on your vehicles and so on.
 
-Noise discipline is critical to effective Rat operations. Almost all forms of movement generate audible noise that can be detected by nearby players. Running, walking, crouch-walking, and crawling all create sound signatures. Vegetation and terrain features such as bushes, undergrowth, and branches aggravate movement noise, with snapping twigs or rustling foliage revealing a Rat’s approach long before they are seen. As confirmed by the game's lead sound designer before Patch 1.3, movement speed directly affects loudness, but posture does not. Simply put: the faster you move, the louder you become, regardless of stance. If you want to move quietly, you must move slowly. When operating near enemy forces, Rats must time their movement to exploit environmental masking sounds. Strong gusts of wind moving through foliage can mimic the sound of human movement which is a good mask to your movement. Similarly, movements should be timed with battlefield distractions such as gunfire, grenade detonations, or enemy chatter over local voice comms. If the enemy or their allies are  moving or talking, their own noise will degrade their ability to detect yours. Radio communication presents another risk. Even when transmitting on squad or team channels, Reforger broadcasts a directional voice audio bubble around the transmitting player. You do not emit sound when receiving comms. Speaking over the radio near enemy positions can betray your presence just as speaking in proximity chat will. It must be understood that the only way to be perfectly silent is to be perfectly still.
+Most gaming monitors have a gamma or night vision capability, and this is how the majority of players can see at night.
 
-Movement discipline governs how and when a Rat displaces. Movement should be limited to essential repositioning only. Constant motion invites observation and targeting. Where movement is unavoidable, routes must be selected that maximise natural cover and concealment. Crossing open ground must be avoided unless absolutely necessary. If forced to move across exposed areas, Rats must rely on speed, timing, and the use of dead ground that is, areas of terrain where natural dips, folds, or obstacles prevent the enemy from seeing your movement.
+Rats don't fight fair, neither does anyone else, if you have it, you should use it.
+
+**Noise** — Any form of movement makes noise, in the current state of the game you *speed* dictates how loud you are, the slower you are, the quieter you are. **Your posture / stance does not affect how loud you are currently!** Bear that in mind.
+
+Vegetation and terrain features such as bushes, undergrowth, and branches aggravate movement noise, with snapping twigs or rustling foliage revealing a Rat’s approach long before they are seen. 
+
+If you are operating near enemies, you need to mask your sounds, or you will be compromised and you will die. Time your movement with other in-game sounds to help mask the sound of you moving. Move when the enemy is moving, firing, talking on their radio, or the wind is blowing through the trees and foliage.
+
+**Radio Comms** — Talking in prox. chat is obviously going to give you away, but bear in mind that when you **talk on your team / squad radio, your character will also talk in prox. chat** as you would expect to happen in real life.
+
+**Totally silent faction / squad chat** is achievable by using the text chat function on PC, to get messages to your team with your character model remaining completely silent. Just make sure you're not typing into global chat!
+
+**Movement discipline** — Do not move without having a reason to move and a plan of where you are going and what you will do if you are suddenly compromised. Motion invites observation and creates noise, the human eye is naturally attracted to movement and gamers finely tuned to the sound of footsteps. If you have to move, continue using cover and concealment, crossing open ground must be avoided unless you have literally no other choice. If you *must* walk across open ground, time it well, move as quickly as you can and try to use 'dead ground', which is an area of terrain where natural dips folds or obstacles obscure enemy sight of you.
 ### Why Rats Get Seen
 
-Despite taking cover, hiding in bushes, and adjusting posture, Rats are still often seen and killed. This is because most players misunderstand concealment. Staying hidden is not just about choosing the right bush or wearing the right camo it's about understanding how human vision works and how certain shapes, movements, or colours give you away.
+Despite following the principles of cover and concealment Rats are often still seen and exterminated in the wild. This is because Rats misunderstand concealment. Staying hidden relies on you applying the principles we have covered in this section in combination with understand **how your enemy will see you.**
 
-Visual detection is the number one cause of failure for solo Rats. The enemy doesn't need to hear you. They only need to see something out of place — a shape, a shadow, a flicker of motion.
+**Visual detection** is the primary threat to solo operators. The enemy does not need to see your entire body or gear, they only need to spot one small thing that does not belong. A shape that breaks a natural pattern, a shadow where none should fall, a flick of movement in the stillness.
 
-The following factors explain why Rats are seen, even when they think they're concealed:
+Some things to consider:
 
-A Rat out of place draws attention. If you're lying prone in the middle of a road, even if you're completely still, the human eye will catch it. This is a matter of siting — occupying a position that doesn't make sense within the context of the environment. If your placement looks unnatural, you're far more likely to be spotted. Avoid positions that break the visual logic of the terrain. A prone body in the middle of a trail stands out. A still figure in shadow, behind a low wall, does not.
+**The human brain is an expert in pattern recognition**. It knows what to expect on maps like Everon. Empty buildings. Abandoned vehicles. Deserted roads. When everything should be lifeless, any sign of movement or presence triggers immediate attention. This is why a helmet edge in a window draws your eye from hundreds of meters away. It violates the expected pattern. Choose positions that match the context of the environment you are in.
 
-The human silhouetteis instantly recognisable. Heads, shoulders, and gear form consistent shapes the eye is trained to spot. Lying flat doesn’t change that. Break up your outline with uneven backgrounds, shadow, and foliage. Hide next to visual clutter, not on blank surfaces.
+**Movement is your greatest enemy.** The human eye glosses over static shapes but locks onto motion instantly. You can remain invisible at 50 meters until you shift position, then get spotted at 300. Even turning your head creates detectable change against a still background. This creates the Rat's dilemma: movement is necessary for mission success but deadly for concealment. Time your movements, plan your escape vector, movement discipline is key to your success.
 
-Shadows conceal, but they also betray. You can use shadows to hide, but if you're moving in sunlight, you may cast a shadow across open ground — even when your body is fully hidden. Pay attention to the position of the sun and the length of your own shadow.
+**Shadows conceal, but they also betray.** You can third-person peak from behind the corner of a house all you want. Just remember, if the sun is in the right position, your long shadow on the ground is giving you away and the enemy is looking to flank you. Be wary of the changing light conditions and how they affect your concealment.
+### Fighting Positions / Hides / Ratholes
 
-Colour contrast is another critical issue. Your camo might look great in a forest, but if you stand in front of white walls inside a window, you're going to stand out. Uniforms that don’t match the environment are worse than no camo at all.
+A hide is a static position from which the Rat will observe from, engage from if necessary, and fall back to survive. A hide is a deliberate spot selected by you in your area of operations, and the use of such pre-determined hides can be a key element to remaining undetected or surviving if compromised.
 
-And finally, movement is everything. You can be invisible until you move. Even slow movement catches the eye. Jerky or sudden movements are even worse. Never move unless you have masking noise or visual cover. If they’re talking, firing, or running, move. If they’re scanning or listening freeze. Human vision is wired to detect motion before shape, colour or detail, if you're still you may go overlooked.
-### Hides
-A hide is a spot in which you will... Hide... It is generally a position where you are you have a view that allows you some advantage over approaching enemies and allows you to observe enemy movements. A hide should also provide you adequate cover from incoming enemy fire if needed.
+When selecting a hide, even a temporary one you only intend to use for a few moments or minutes — you must briefly consider the following factors.
 
-A simple example of a hide would be a room in a building, where you have a view out of the window and have some cover from incoming fire by virtue of the walls etc.
+**Selection Standards** — The ideal hide provides a clear field of fire while wherever possible denying the enemy a clean shot back. A second floor window overlooking a crossroads allows engagement while the walls offer protection, for example. A hillside position looking down into an exposed piece of road is an ideal hide.
 
-Another example may be a man made structure like a trench or sandbag bunker.
+**Escape Planning** — You need to know how you are going to escape your position if you are pushed by the enemy, remember, Rats are cowards do not go down in blazes of glory if they can help it. Do not allow yourself to be cornered. When picking a hide you need to briefly think 'What am I going to do, where am I going to go, if this position is compromised?'
 
-When picking a hide, you cannot simply go with whatever room or hiding place is nearest to you. You must assume that at some point you are going to be discovered or an enemy will get too close and you will come under fire, what will you do? You need to think briefly about what your escape plan will be, and hopefully your hide provides you with a good escape vector. An example of this would be a hide in a building of a house, which you can exit into a corridor that leads to a back door, gardens and a good means of escape.
-### Movement Principles
+
+
+
+# 3. MOVEMENT
 
 Movement is necessary, but undisciplined movement invites detection and destruction. Movement is a constant exercise in judgment, terrain reading, and restraint.
 
@@ -267,7 +303,8 @@ If you have been firing from one position for some time, the enemy may have spot
 
 The rush is the fastest way to move from one position to another. Each rush should last from 3 to 5 seconds. Rushes are kept short to prevent enemies from tracking you. However, do not stop and hit the ground int he open just because 5 seconds have passed. Always try to hit the ground behind some cover. Before moving, pick out your next covered and concealed position and the best route to it.
 
-## 2. Urban Areas
+# 4. URBAN COMBAT
+
 Arma Reforger has some small urban areas and the principles of urban movement and combat do apply here. Successful Rat operations in urban areas requires skills that are unique to this type of fighting. You must be skilled in moving, entering buildings, clearing rooms and selecting and using fighting positions to be effective in this environment.
 
 ### Avoid Open Areas
@@ -319,9 +356,13 @@ If circumstances allow, **precede your entry with a grenade**. The explosion wil
 
 Do not linger at the threshold. Move, clear, and kill. This is not the time to hesitate.
 
-### Close Quarters Combat
+# 5. CLOSE QUARTERS COMBAT (CQC)
 
 CQC represents the most volatile, unforgiving and lethal form of engagement available to the Rat, or any soldier for that matter. It occurs inside buildings, confined spaces or within narrow urban terrain areas. In these areas visibility is is limited, movement constrained and combat takes place at distances measured in metres or less.
+
+If you are entering a building to clear it of a known threat, this is CQC. If you are being rushed by an enemy while you are hiding in an bush on the outskirts of a base, this becomes CQC.
+
+Any combat that occurs in close quarters is CQC. I know this sounds obvious but knowing when to apply the below principles will help you survive.
 
 In real-world doctrine, CQC is universally recognised as high-risk. In Arma Reforger, it becomes exponentially more dangerous due to several factors including client-server latency, clipping and occasionally de-sync.
 

@@ -1,4 +1,4 @@
-# Arma Reforger Rat Bible - Solo Tactics Guide 1.3
+# A Rat's Life - Solo Tactics Field Manual
 The Ultimate Guide to Stealth, Sabotage and Solo Operations in Arma Reforger
 
 # THE RAT BIBLE

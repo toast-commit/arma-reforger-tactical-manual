@@ -7,54 +7,65 @@ The Ultimate Guide to Stealth, Sabotage and Solo Operations in Arma Reforger
 
 ## FOREWORD
 
-Welcome. If you're reading this, you're ready to learn the ways of the Rats - a brotherhood of players who master the art of lone wolf, commando-style sabotage in large-scale tactical shooters. But even if joining our ranks isn't your goal, this guide will improve how you operate whenever you find yourself alone on the battlefield.
+Welcome. If you're reading this, you're ready to learn the ways of the Rats - a brotherhood of players who master the art of lone wolf, commando-style sabotage in large-scale tactical shooters. If you enjoy playing squad based games largely on your own for whatever reason, and enjoy sneaking around causing trouble then this guide is for you. I will show you how to operate solo in large-scale shooters while still positively contributing to your team and the game state. In fact, applying these tactics well will make your solitary vermin-adventures worth more than a handful of hapless squaddies.
 
-Solo players are underserved. While squad tactics dominate most guides, this handbook fills that crucial gap. Whether you're a dedicated Rat, a separated squad member, or simply looking to sharpen your solo skills, you'll find everything you need to make a decisive impact while operating alone in Arma Reforger and similar large-scale FPS games.
+Solo players are underserved when it comes to guides in tactical shooters. While squad tactics dominate most guides, this handbook fills that crucial gap for those of us who prefer to chill on our own in games. Whether you're a dedicated Rat, a separated squad member, or simply looking to sharpen your solo skills, you'll find everything you need to make a decisive impact while operating alone in Arma Reforger and similar large-scale FPS games.
 
-The tactics within draw from declassified infantry manuals, adapted specifically for gaming reality. Real-world doctrine tells soldiers to use SLLS - Stop, Look, Listen, Smell - when patrolling. Since Arma Reforger lacks smellovision, I've streamlined this to SLL: Stop, Look, Listen. Throughout this guide, you'll find similar practical adjustments that bridge the gap between real-world doctrine and virtual battlefields.
+The tactics within this guide draw from declassified infantry manuals which I have adapted specifically for the reality of gaming. For example - real-world doctrine tells soldiers to use SLLS - Stop, Look, Listen, Smell - when patrolling. Since Arma Reforger lacks smellovision, I've streamlined this to SLL: Stop, Look, Listen. Throughout this guide, you'll find similar practical adjustments that bridge the gap between real-world doctrine and our virtual escapades.
 
-The need for these adjustments runs deeper than just sensory limitations. Military doctrine focuses almost exclusively on squad operations. Even snipers work in teams. The challenges we face as solo operators in Reforger rarely appear in official literature - and when they do, those sections aren't publicly available. I've stripped down squad tactics to their solo essentials, borrowed concepts from other military disciplines, and pressure-tested everything in actual gameplay.
+You'll note that the infantry manuals you can find online are almost exclusively dedicated to squad operations. Even snipers work in teams. The challenges we face as solo operators in Reforger are rarely documented, I've stripped down squad tactics to their solo essentials, borrowed concepts from other military disciplines, and pressure-tested everything in actual gameplay over two decades of being a sweaty Rat.
 
-You'll discover authentic military principles reimagined for the solo operator, combined with game-specific tactics that actually work. This isn't a copy-paste job from field manuals, nor is it pure military simulation. It's a practical guide for dominating as a lone wolf in tactical shooters.
-## TO DO
-- Go through each section and add images.
-- Translations - French / German / Ukrainian / Swedish / Czech
-- Test change
+You'll discover here authentic military principles reimagined for the solo operator, combined with game-specific tactics for Arma Reforger that actually work. This isn't a copy-paste job from field manuals, nor is it pure military simulation. It's a practical guide for dominating as a lone wolf in tactical shooters.
+
+### CHANGELOG
+This guide is written to be re-iterated and improved upon. My long term goal is to have this be THE comprehensive tactical guide for solo players in tactical game akin to Arma Reforger, with a focus on stealth, sabotage, subterfuge and generally sneaky, annoying tactics hence the name 'Rat'.
+
+You can follow development of the guide here - https://github.com/verybadracer/arma-reforger-tactical-manual as I work on it pending Steam releases.
+
+v1.0 -
 
 
 ---
 
 # I. RAT DOCTRINE & MINDSET
 
-## What is "Ratting"?
+## What is a 'Rat'?
 
-The term **“Rat”** was originally applied to solo players in Escape from Tarkov (see seminal educational video — [https://youtu.be/o286LaBz__Y](https://youtu.be/o286LaBz__Y)), but the philosophy has since spread far beyond.
+**"Rat"** - the name captures the spirit of how we operate and how we are perceived. We call ourselves Rats because we are meant to be hated. We are vermin in the enemy's rear, chewing through their resources, ambushing their friends and vanishing before they can retaliate. When they do catch us, we reappear just as quickly as we were exterminated, ready to annoy again.
 
-"Ratting" is the art of operating deep behind enemy lines fulfilling the role of a commando or saboteur. The Rat acts largely alone or in small cells, leveraging sabotage, ambushes, theft and nuisance to destabilise and harass enemy forces. Their goal is not to seize territory by force of arms, but to erode enemy logistics, morale and operational coherence by persistent, unpredictable harassment.
+In Arma Reforger, "Ratting" is the art of operating deep behind enemy lines, fulfilling the role of a commando or saboteur. The Rat acts largely alone or in small cells, leveraging sabotage, ambushes, theft and nuisance to destabilise and harass enemy forces. Their goal is not to seize territory by force of arms, but to erode enemy logistics, morale and operational coherence through persistent, unpredictable harassment.
+
+Basically - be as annoying and destructive as you can without being seen and without dying.
+
+We are the single operator who distracts large amounts of resources from the enemy into dealing with you rather than winning the game. Rats do not fight fair, ever. They lurk in the shadows, strike without warning and disappear before the enemy can comprehend what has happened.
 
 Rats have received their namesake in part because their playstyle demands scavenging. They live off the battlefield, arming themselves with whatever they can recover from the dead, whether by their own hand or someone else's.
 
-The name 'Rat' captures the spirit of how we operate and how we are perceived, we call ourselves Rats because we are meant to be hated. We are vermin in the enemy's rear, chewing through their resources, ambushing their friends and vanishing before they can retaliate.
+Your enemies will curse you. They will call you cowards. And in that moment when you hear their frustration spill out over Platoon chat on a radio you stole from one of their own, you will know you're doing your job right.
 
-Rats do not fight fair, ever. They lurk in the shadows, strike without warning and disappear before the enemy can comprehend what has happened.
-
-Your enemies will curse you. They will call you cowards. And in that moment when you hear their frustration spill out over Platoon chat on a radio you stole from one of their own you will know the mission is complete.
+The term 'Rat' as we know it currently came from Escape from Tarkov (see seminal educational video — [https://youtu.be/o286LaBz__Y](https://youtu.be/o286LaBz__Y)), but the philosophy has since spread far beyond.
 
 This is what Rats do.
 
-Rats deploy themselves to the battlefield and engage in clandestine operations to disrupt the enemy, this includes: 
+Rats deploy themselves to the battlefield and engage in clandestine operations to disrupt the enemy, this includes:
 
-- Disrupting enemy supplies by stealing, destroying or sabotaging enemy vehicles, ambushing supply lines and wasting resources at enemy arsenals.
+- Disrupting enemy supplies by stealing, destroying or sabotaging enemy vehicles, ambushing supply lines, mining roads and wasting resources at enemy arsenals.
 
 - Delay or destroy reinforcing enemy forces through ambushes and route denial.
 
 - Disrupting enemy operations by ambushing or sabotaging high value vehicles like helicopters and tanks.
 
+- False flag operations using enemy uniforms for infiltration and ambush (but beware of XP penalties in Patch 1.3).
+
+- Radio theft and psychological operations - stealing enemy radios to monitor communications and, where permitted by server rules, broadcasting on enemy frequencies to sow confusion and chaos (without being abusive).
+
+- Locating and destroying enemy radio backpacks to eliminate their mobile spawn points.
+
 - Force the enemy to overcommit resources like manpower, vehicles and time to deal with an elusive, low cost vermin-like threat.
 
-- Solo-capping objectives and while doing so, destroying base assets to frustrate enemy efforts and waste their supplies.
+- Solo-cap objectives and while doing so, deconstruct base assets to frustrate enemy efforts and waste their supplies
 
-- Solo-capping objectives and forcing the enemy to waste resources to deploy to the point to prevent the objective being lost.
+- Solo-cap objectives and force the enemy to waste resources to deploy to the point to prevent the objective being lost.
 
 - Entering enemy bases and using their arsenals to waste their supplies by buying items and dropping them in the vicinity nearby.
 
@@ -64,48 +75,55 @@ Rats deploy themselves to the battlefield and engage in clandestine operations t
 
 ## The Psychology of the Effective Rat
 
-A Rat must reject the conventional battlefield ego of the average FPS player. This playstyle is not for those who seek to rack up kills for their own sake, though a skilled Rat will inevitably accumulate plenty on their own. 
+A Rat must reject the conventional battlefield ego of the average FPS player. This playstyle is not for those who seek glory, heroic last stands, or kill counts for their own sake.
 
-It is not for those who wish to go out in a blaze of glory when cornered, to hold until the bitter last and earn a posthumous medal of honour. Rats do not engage the enemy unless they are certain of overwhelming tactical advantage. They do not fight fairly. Instead, they rely on deception, disguise, concealment, and surprise to dominate every engagement. Like real rats, when caught off-guard, they do not stand and fight. They run, and they run without shame.
+The Rat embraces cowardice as virtue. Running without shame. Hiding without honour. Striking only when victory is certain. This mindset demands total suppression of the ego that drives most players to "prove themselves" in fair fights.
 
-Rats employ hit-and-run attacks and ambush tactics as their primary forms of engagement. They strike swiftly, inflict damage, and withdraw before the enemy can respond effectively. Rats understand that after delivering their blow, they no longer hold the advantage and as such make good their escape. Survival depends on immediate disengagement and disappearance before the enemy can regroup and retaliate.
+To Rat effectively, you must prioritise survival above all else. Each spawn costs precious supplies - whether through vehicles or radio backpacks. Death is failure, not sacrifice. The dead Rat disrupts nothing.
+
+**The Rat thinks constantly.** Too many players spawn, kit up, jump in a vehicle, and drive blindly toward their objective only to be annihilated on the way. This is not Ratting; this is feeding. Every movement demands consideration: Which routes avoid likely ambush points? Where might enemy Rats be operating? What escape routes exist if contact is made? The thoughtless Rat is a dead Rat.
+
+**The Rat maintains purpose.** Sneaking around an objective outside radio range serves no one. Hiding in a bush 2km from anything of strategic value is not infiltration - it's desertion. Before every action, ask: "How does this help my team win?" If you cannot answer, you are not Ratting. Every position must threaten something the enemy values or enable something your team needs.
+
+Rats do not fight fairly. They do not engage unless holding an overwhelming advantage. When surprised, they flee immediately. When cornered, they evade. There is no shame in retreat, only in unnecessary death.
+
+Like their namesake, Rats survive through cunning, not courage. They scavenge, they hide, they strike from shadows. This is not a playstyle for those seeking respect or admiration. Your enemies will hate you. Your teammates may question you. But results will speak for themselves.
+
+Your team may celebrate their successful push, but you'll know it was your ambush on that reinforcement truck that tipped the scales.
 ## Operational Philosophy: High Impact, Low Visibility
 
-The operational philosophy of the Rat is simple: achieve high impact while maintaining low visibility.
+While psychology governs the Rat's mindset, operational philosophy guides their tactical decisions. The principle is simple: maximum disruption with minimum exposure.
 
-Rats use stealth and cunning to remain undetected. They strike only when the timing is right, causing maximum disruption with minimal exposure. Every act of sabotage, subterfuge, deception, or destruction must have a clear, positive impact on the wider battle. Rats do not act for personal glory or random kills. Every action must serve the team and the broader strategic goals of the game.
+This requires ruthless prioritisation. Random kills and aimless wandering wastes time and resources. Every action must advance strategic objectives that weaken the enemy's ability to win.
 
-This requires careful selection of objectives. It is not enough to sit ambushing an empty road in the middle of nowhere, hoping a stray jeep eventually drives past. Instead, Rats must read the map, understand the flow of logistics, and predict enemy movement. They should identify high-value targets: supply routes, reinforcement hubs, and critical communication points.
+Effective target selection demands map awareness and predictive thinking. Consider likely supply routes, identify reinforcement patterns and locate critical objectives. Flipping the right objective can cut off half the map from comms. An ambushed supply truck can starve a forward position and prevent the enemy respawning to defend. A well set ambush position can provide the buffer your team need to cap a point.
 
-For example, a Rat might notice that a particular enemy objective is a key relay point for radios across the map. Destroying or disrupting that location could cripple the enemy’s ability to spawn reinforcements or coordinate movements elsewhere. By striking at these vital points, the Rat forces the enemy into a dilemma: either commit time and resources to hunt a single operator, or allow continued disruption and risk collapse elsewhere.
+Consider: that enemy helipad might be a tempting target, but is it currently active? That sniper might be an easy kill, but are they actually affecting the battle? The disciplined Rat constantly evaluates:
 
-A single Rat, correctly placed, can act as a force multiplier — shifting the momentum of an entire match through careful, strategic harassment.
+- What target offers maximum disruption?
+- Where is the enemy most vulnerable?
+- How can one action cascade into multiple problems?
 
-At all times, Rats must constantly reassess their mission. They must ask themselves:
+When priorities shift, the Rat adapts immediately. Clinging to outdated objectives is tactical malpractice, if you haven't seen any enemies in a while then its time to move. Thanks to radio backpacks, relocation is simple. When conditions change, pack up and redeploy without hesitation.
 
-- Has the state of the game changed?
+A single Rat, correctly positioned and properly focused, becomes a force multiplier.
 
-- Is my current objective still the most valuable use of my time?
+**This is the way of the Rat.**
 
-- Is there a better target that would cause more disruption?
-
-If the answer to any of these questions is yes, the Rat must immediately reconsider their current deployment. A Rat who clings stubbornly to outdated missions becomes irrelevant and wasted and is not fulfilling the Rat ethos of optimum disruption.
-
-Thanks to the use of radio backpacks, relocating is straightforward. A disciplined Rat will retrieve their mobile spawn, find a vehicle if necessary, and insert themselves into a more critical area without hesitation.
-
-This is the way of the Rat.
 
 ## How Patch 1.3 Changes the Ratting Meta
 
-Patch 1.3 introduced several key updates that permanently altered the tactical viability of certain solo infiltration techniques, particularly those involving the use of enemy uniforms. These changes necessitated a revised operational model for Rats operating independently behind enemy lines.
+Patch 1.3 fundamentally altered disguise operations. Previously, Rats could wear enemy uniforms and engage targets without penalty and still grind XP. 
 
-Prior to Patch 1.3, players could equip enemy uniforms, engage hostile forces while disguised, and retain standard experience (XP) gains. This resulted in several operational issues, including friendly players struggling to distinguish friend from foe, and being penalised with friendly fire infractions for engaging disguised teammates. The meta increasingly encouraged behaviour that resembled war crimes, which Bohemia Interactive has historically taken steps to prevent.
+The new system tracks what your wearing and which team your dressed as. Kill while wearing enemy colours and you receive an increased friendly fire penalty. You will be demoted through the ranks ultimately reaching _Renegade_ status. Renegades lose all arsenal access to **any** arsenal, friend or foe. This is important because a Rat may rely on the enemy arsenal in bases they sneak into to resupply from, reducing them to pure scavengers. Some servers will also kick Renegade ranked players automatically.
 
-Patch 1.3 addressed this through an updated uniform identification system. The game now determines player alignment based on worn uniform. If a player kills enemy forces while disguised in enemy colours, the act is flagged as a war crime. This results in immediate and severe XP penalties, leading to demotion to _Private_, and eventually to _Renegade_ status.
+**Disguises remain viable - but require new discipline:**
 
-Once demoted to _Renegade_, the player is locked out of all arsenals, friendly or enemy. This effectively ends access to sustained operations behind enemy lines. Ammunition, medical equipment, weapons, mines, and silencers—critical to Rat operations—become unavailable. The operator is forced to rely entirely on what can be scavenged in the field. Certain servers and administrators may also impose additional measures against Renegade-ranked players, including automatic kicks or temporary bans.
+- Use for passive infiltration only
+- Avoid combat while disguised
+- If you are going to carry out ops in disguise, accept the XP loss.
 
-That said, **disguises remain tactically viable under controlled conditions**. Effective use cases include infiltration of enemy bases for passive resupply without direct engagement, short-term reconnaissance through contested areas, and operations where the anticipated gain justifies temporary XP loss.
+These changes mean the era of Ratting in disguise is mostly out of the window and the new golden era of Ratting begins.
 
 ---
 

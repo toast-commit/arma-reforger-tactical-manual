@@ -34,7 +34,7 @@ If you have any suggestions on topics or tips to add from your Rat operations, p
 
 ---
 
-# I. RAT DOCTRINE & MINDSET
+# 1. RAT DOCTRINE & MINDSET
 
 ## What is a 'Rat'?
 
@@ -136,7 +136,7 @@ These changes mean the era of Ratting in disguise is mostly out of the window an
 
 ---
 
-# II. FIELDCRAFT
+# 2. FIELDCRAFT
 > “If the enemy can see you, and you are within range of his weapon system, he can engage and possibly kill you. So, you must be concealed from enemy observation and have cover from enemy fire. When the terrain does not provide natural cover and concealment, you must prepare your cover and use natural and man-made materials to camouflage yourself, your equipment, and your position.”
 > 
 > The Warrior Ethos & Combat Skills
@@ -268,44 +268,51 @@ A hide is a static position from which the Rat will observe from, engage from if
 
 When selecting a hide, even a temporary one you only intend to use for a few moments or minutes — you must briefly consider the following factors.
 
-**Selection Standards** — The ideal hide provides a clear field of fire while wherever possible denying the enemy a clean shot back. A second floor window overlooking a crossroads allows engagement while the walls offer protection, for example. A hillside position looking down into an exposed piece of road is an ideal hide.
+**Selection Standards** — The ideal hide provides a clear field of fire while wherever possible denying the enemy a clean shot back. A second floor window overlooking a crossroads allows engagement while the walls offer protection, for example. A hillside position looking down into an exposed piece of road is an ideal hide and position to set up an ambush.
 
-**Escape Planning** — You need to know how you are going to escape your position if you are pushed by the enemy, remember, Rats are cowards do not go down in blazes of glory if they can help it. Do not allow yourself to be cornered. When picking a hide you need to briefly think 'What am I going to do, where am I going to go, if this position is compromised?'
-
-
+**Escape Planning** — You need to know how you are going to escape your position if you are pushed by the enemy, remember, Rats are cowards and do not go down in blazes of glory if they can help it. Do not allow yourself to be cornered. When picking a hide you need to briefly think 'What am I going to do and where am I going to go, if this position is compromised?'
 
 
 # 3. MOVEMENT
 
-Movement is necessary, but undisciplined movement invites detection and destruction. Movement is a constant exercise in judgment, terrain reading, and restraint.
+Movement is survival, but careless movement is suicide. Every journey across the battlefield demands careful consideration of terrain, timing, and threat level.
 
-Successful movement relies on strict adherence to basic principles:
+Watch any typical player, and you'll see them sprint straight from spawn to objective, only to catch a round in the head as they cross the final open field. Ten minutes of running ended in two seconds of poor decision-making. This is what happens when players move without thinking.
 
-Stop, look, and listen (SLL) before moving and after moving. Identify your next position and plan your route before leaving cover, when you arrive, stop, look and listen again for 10 - 30 seconds before departing once more. Movement without a plan risks crossing open areas, exposing your silhouette, or creating unnecessary noise.
+Smart movement follows a simple framework: plan your route as a series of waypoints, not a straight line. At each waypoint, execute the SLL protocol — Stop, Look, Listen. Take 10–30 seconds to scan your surroundings and listen for movement before continuing. This brief pause creates the reaction gap that keeps you alive when contact happens.
 
-Whenever possible, select routes that offer natural cover and concealment. Move through low ground, vegetation, depressions, and broken terrain. Avoid walking across cleared areas or the tops of hills and ridgelines. Movement along elevated ground will skyline your silhouette against the sun or moon, making you visible from great distance.
+Route selection matters more than speed. Choose paths through low ground, vegetation, and broken terrain. Those ridgelines might offer great views, but they also silhouette you against the sky — making you visible to every sniper within a kilometre. That open field might save you two minutes of walking, but is two minutes worth respawning and starting over?
 
-Remain alert to environmental cues. Birds or animals that suddenly scatter may indicate the presence of enemy forces nearby. Pause, observe, and adjust your movement accordingly.
+The environment talks if you know how to listen. In Reforger, birds scatter when players move nearby. Stop. Observe. Adjust your route accordingly.
 
-When crossing danger areas such as roads, trails, or riverbeds, choose crossing points with the most available cover such as low spots, culverts, curves, or bridges rather than open straightaways.
+Danger areas require special attention. Roads, trails, and riverbeds are natural ambush zones. Cross them at curves, culverts, or bridges where you have cover, never at long straight sections where you're exposed.
 
-Movement must be adapted based on the likelihood of enemy contact. The following guidance applies:
+Your movement should match the tactical situation:
 
-|If Enemy Contact Is:|Move By:|
-|---|---|
-|NOT LIKELY|Walking / Running / Driving|
-|POSSIBLE|Walking / Running, with frequent Stop / Look / Listen pauses|
-|EXPECTED|Walking only, maximum Stop / Look / Listen discipline|
+If Enemy Contact Is: **NOT LIKELY**
+Move By: *Walking / Running / Driving*
 
-Movement is a constant risk. Your ability to move silently, unseen, and intelligently determines your survival. Rats do not rush blindly. They move with purpose or they do not move at all.
+If Enemy Contact Is: **POSSIBLE**  
+Move By: *Walking / Running, with frequent Stop / Look / Listen pauses*
+
+If Enemy Contact Is: **EXPECTED**
+Move By: *Walking only, maximum Stop / Look / Listen discipline*
+
+Movement without purpose gets you killed. Take the extra minute to move smart. The player who rushes blindly into contact rarely survives long enough to learn from their mistakes.
 ### Moving From Cover
 
-If you have been firing from one position for some time, the enemy may have spotted you and may be waiting for you to come up from behind cover. So, before rushing forward, roll or crawl a short distance from your position. By coming up from another spot, you may fool an enemy who is aiming at one spot and waiting for you to rise. When the route to your next position is through an open area, use the 3 to 5 second rush (detailed in the next chapter). When necessary, hit the ground, roll right or left, and then rush again.
-### The 3-5 Second Rush
+Once you've been firing from a position, assume you're marked. The enemy knows your location, and they're waiting for your head to pop up again. This is when most players die — trying to re-engage from a compromised position.
 
-The rush is the fastest way to move from one position to another. Each rush should last from 3 to 5 seconds. Rushes are kept short to prevent enemies from tracking you. However, do not stop and hit the ground int he open just because 5 seconds have passed. Always try to hit the ground behind some cover. Before moving, pick out your next covered and concealed position and the best route to it.
+Never stand up where you went down. Instead, crawl or roll several metres to either side before coming up. The enemy's crosshairs are on your last position. Make them adjust. That split-second of confusion might save your life.
 
-# 4. URBAN COMBAT
+When you must cross open ground, use what soldiers call the “3-5 second rush.” This isn't arbitrary timing — it's based on human reaction time and weapon handling. Most players need 2–3 seconds to acquire a moving target, adjust their aim, and fire accurately. By limiting your exposure to 5 seconds maximum, you stay inside their reaction window.
+
+Here's how it works: Pick your next cover point before you move. When you break from cover, sprint full speed for 3–5 seconds, then hit the dirt. Don't stop because the timer says so — stop when you reach cover. If you're caught in the open, go prone, roll once to throw off their aim, then rush again.
+
+The key is unpredictability. Never establish a pattern. Sometimes rush for 3 seconds, sometimes 5. Sometimes roll right, sometimes left. Keep them guessing.
+
+**Remember — Rats survive by being where the enemy doesn't expect them. Every time you move, ask yourself -”Where would they expect me to go?" Then go somewhere else.
+# 4. URBAN MOVEMENT
 
 Arma Reforger has some small urban areas and the principles of urban movement and combat do apply here. Successful Rat operations in urban areas requires skills that are unique to this type of fighting. You must be skilled in moving, entering buildings, clearing rooms and selecting and using fighting positions to be effective in this environment.
 
@@ -356,46 +363,43 @@ That means, more often than not, you’ll be using doors and that’s a problem,
 
 If circumstances allow, **precede your entry with a grenade**. The explosion will force defenders into cover or out of their sights, disorient them, or outright kill them. Either way, the Rat must enter **immediately** after detonation. Any delay forfeits the advantage and gets you shot walking into the kill zone.
 
-Do not linger at the threshold. Move, clear, and kill. This is not the time to hesitate.
+Do not linger at the threshold. Move, clear, and kill. This is not the time to hesitate. It is when you are in the close confines of your enemy that you then enter close quarters combat...
 
 # 5. CLOSE QUARTERS COMBAT (CQC)
 
-CQC represents the most volatile, unforgiving and lethal form of engagement available to the Rat, or any soldier for that matter. It occurs inside buildings, confined spaces or within narrow urban terrain areas. In these areas visibility is is limited, movement constrained and combat takes place at distances measured in metres or less.
+CQC represents the most volatile, unforgiving and lethal form of engagement available to the Rat, or any soldier for that matter. CQC is not restricted to buildings. An enemy rushing your bush position creates CQC conditions. A surprise contact in dense vegetation becomes CQC. Any engagement where reaction time shrinks to milliseconds qualifies as close quarters combat. The principles below apply whenever combat distance collapses, regardless of terrain.
 
-If you are entering a building to clear it of a known threat, this is CQC. If you are being rushed by an enemy while you are hiding in an bush on the outskirts of a base, this becomes CQC.
+In real-world doctrine, CQC is universally recognised as high-risk. In Arma Reforger, it becomes exponentially more dangerous due to client/server latency and occasionally de-sync.
 
-Any combat that occurs in close quarters is CQC. I know this sounds obvious but knowing when to apply the below principles will help you survive.
+It is for these reasons that the Rat lives by the adage of only engaging when they know they are at an overwhelming advantage. Consciously entering CQC should only be done deliberately if you know, _beyond all doubt_, that you are in a position of such strong advantage the enemy has almost no chance to survive.
 
-In real-world doctrine, CQC is universally recognised as high-risk. In Arma Reforger, it becomes exponentially more dangerous due to several factors including client-server latency, clipping and occasionally de-sync.
-
-Even with perfect technique, the odds in CQC favour the defender. Any player holding a corner or angle already has their weapon raised, often aimed at the doorway. They enjoy the luxury of cover, positioning and time. The Rat, by contrast, must breach, identify and engage all while exposed.
-
-It is for this reason that it is almost universally recommend in nearly all circumstances to simply hold an overwatch of a known occupied building, and wait out the occupant or take a shot through the windows. It is also recommend to simply bypass the building altogether if an enemy is known to be occupying it, instead moving around its arcs of fire and waiting for the enemy to leave again.
-
-There are only two scenarios where CQC may become necessary:
-1. An enemy unexpectedly occupies the same structure or terrain as you.
-2. A known high value threat is inside a building and must be eliminated (a sniper, an enemy Rat, an anti-vehicle specialist)
-
-When these conditions apply, the Rat must abandon hesitation and commit to the doctrine of **overwhelming violence of action**.
-
+You attack by surprise, you attack with overwhelming force. It is in these moments when the Rat is faced with entering CQC, either because they choose to unleash it on the enemy or because it is unleashed on them, that the Rat must abandon hesitation and commit to the doctrine of **overwhelming violence of action**.
 ### Violence of Action
-Violence of action is the defining characteristic of the Rat’s engagements. While stealth, evasion, and deception are the default tools of survival, there comes a moment when the Rat must strike. When that moment arrives, it must be executed with **overwhelming force, speed, and decisiveness**.
 
-**Violence of action** is the sudden application of surprise, aggression, and dominance to seize the initiative and eliminate the enemy before they can react. It is not optional. It is not negotiable. **Hesitation equals death.**
+Violence of action is key to winning almost any engagement. While stealth, evasion, and deception are the default tools of survival and getting you *to* the fight, there comes a moment when the Rat must have the fight itself. When that moment arrives, it must be executed ideally on your terms with **overwhelming force, speed, and decisiveness.** 
 
-In Close Quarters Combat, the psychology of the engagement matters as much as the tactics. If the Rat hesitates, the Rat dies. Creeping slowly, inching forward, checking every corner with tentative movement these all serve the defender. The Rat must instead force the fight and shatter the defender’s expectations. Time is not an ally. Every second spent pieing a corner or checking a doorway allows the enemy to reposition, reload, heal, or brace for your entry.
+**Violence of action** is the sudden application of surprise, aggression, and dominance to seize the initiative and eliminate the enemy before they can react. It is not optional. It is not negotiable. **Hesitation equals death in CQC engagements.**
 
-The Rat must act with deliberate speed, aggression, and intent. Movement must be assertive. Targets must be engaged the moment they are seen. Time spent in the kill zone must be kept to an absolute minimum.
+In Close Quarters Combat, victory usually belongs to whoever strikes first with decisive force. The terms “attacker” and “defender” become meaningless — only initiative matters. A defender caught by surprise dies just as quickly as an attacker walking into an ambush. Position means nothing if you don't see it coming.
 
-Pre-firing is the standard operating procedure. If a door is likely occupied, pre-fire it. If a corner is suspect, pre-fire it. If you do not have the ammunition to pre-fire your entries, you do not have the ammunition to conduct a CQC assault and should abort.
+CQC is usually won at the moment of first contact. The player who achieves tactical surprise — who gets “the drop” — almost always wins. This advantage can shift in milliseconds. A camping player loses all defensive benefits the moment an enemy appears from an unexpected angle. An aggressive rusher becomes the victim when walking into a pre-aimed weapon. Yet paradoxically the defender holding an angle becomes the victim when the attacker moves faster than they can keep up with and misses their initial shot.
 
-**If you still have a grenade in your inventory and are about to breach a suspected occupied room, use it.** If you're about to enter a room you suspect is occupied precede the breach with a grenade and go in immediately after detonation. The Rat does not linger, go in fast, aggressive and loud while the enemy is still disoriented or dead.
+The OODA loop — Observe, Orient, Decide, Act — governs every combat engagement. In CQC, both players race through this cycle in fractions of a second, but the one who completes it first gains the advantage. More critically, the player who disrupts their enemy's OODA loop while completing their own wins the fight.
 
-Pre-fire doorways and angles using short, controlled bursts. Do not waste ammunition spraying wildly. The goal is suppression and reaction delay, not panic fire.
+Violence of action weaponises this principle. When you strike with speed and aggression, you force the enemy to restart their OODA loop. They observe your attack, must reorient to your unexpected aggression, struggle to decide under pressure, and act too late. By the time they complete their cycle, you're already into your second or third loop — adjusting fire, moving to better position, or finishing the kill.
 
-CQC requires tempo dominance. The Rat must move faster than the defender can process, forcing mistakes and creating gaps in their response. Most defenders expect a slow breach. When you enter with speed and violence of action, you throw off their rhythm, forcing rushed and inaccurate reactions. Their plan breaks down. Yours takes effect.
+Have you ever been rushed when holding an angle in a building, missed all your shots as the attacker bore down on you and killed you while you struggled to even readjust your aim? That is violence of action in play.
 
-If the defender is behind a door and has already revealed their presence—whether by pre-firing, footstep noise, gear movement or voice comms—listen for signs of **dead time**: reloading, healing, opening the inventory, switching weapons or speaking. These are your windows. The moment you hear any of them, breach and shoot. Do not wait. Do not hesitate. If you delay, they will recover, and you will die.
+This is why hesitation kills in CQC. Every pause extends your OODA loop. Every moment of indecision gives the enemy time to complete theirs. The Rat who acts decisively — even if imperfectly — forces the enemy into a reactive state they cannot escape.
+
+When CQC is initiated, whether by choice or circumstance, commit fully. Half-measures guarantee failure. Full automatic fire, aggressive movement, and overwhelming force create the chaos needed to survive. You must act faster than the enemy can process, creating sensory overload through multiple inputs — muzzle flash, incoming rounds and rapid movement that breaks their cognitive cycle.
+
+**Initiative is everything.** The moment you cede initiative — through hesitation, poor positioning, or predictable movement — you become the victim. Seize it. Keep it. Use it.
+
+Violence of action is not recklessness — it is calculated overwhelming force applied at the moment of contact to establish and maintain initiative. Master the OODA loop and you master CQC. Compress your cycle through violence of action, and expand the enemy's as a result.
+### Urban CQC
+
+
 ### How to Clear Doors
 
 Clearing a door is one of the most dangerous actions a Rat can take in CQC. Every doorway is a potential choke point, a bottleneck where defenders enjoy the greatest advantage. This zone is known as the fatal funnel, a narrow area in and immediately beyond the doorway where all incoming movement is focused and where defenders will distinctively aim.
@@ -449,7 +453,7 @@ By rushing them you disrupt their sight picture, break their rhythm and will for
 ### Hallways
 A hallway is simply a very large fatal funnel, never stand in the middle of it, cling to the walls the doors are on, and try and avoid the angles from which you could be sprayed through a door as you pass through the hallways as much as you can.
 
-# III. Weapons & Fire Control
+# 4. Weapons & Fire Control
 
 ### Aim Point
 Short-range engagements fall into two categories based on your mission and the level of threat:
@@ -480,7 +484,7 @@ Ask yourself - Can I drop the target cleanly with my first volley? Is my exfiltr
 
 If the answer to any of these is no, hold fire.
 
-# IV. Engagement Tactics
+# 5. Engagement Tactics
 ### Dead Time Exploitation
 
 Most kills in Arma Reforger happen during direct engagements but Rats do not seek fair fights. Ratting doctrine prioritises attacking from a position of overwhelming advantage. One of the most reliable ways to achieve that advantage is to exploit what is known as dead time.
@@ -582,39 +586,7 @@ Third, shoot and scoot is one of the most viable solo tactics against armoured v
 
 Use shoot and scoot to apply pressure while remaining survivable. Fire, displace, reset. The enemy will be watching your last known position while you’re already preparing the next shot. That delay is your advantage. Maintain initiative. Control the tempo. Stay mobile, and stay alive.
 
-# Vehicle Tactics
-
-### Using Vehicles
-
-### Engine Off Infil
-
-### Mi-8 MT Helicopter Hitboxes
-
-### UH-1 H Helicopter Hitboxes
-### BRDM-2 Hitboxes
-
-### BTR - 70 Hitboxes
-
-### LAV-25 Hitboxes
-
-### M 151 A 2 Hitboxes
-
-### M 1025 Hitboxes
-
-### M 923 A 1 Hitboxes
-
-### S 105 Car Hitboxes
-
-### S 1203 Minibus Hitboxes
-
-### UAZ-452 Hitboxes
-
-### UAZ-469 Hitboxes
-
-### Ural-4320 Hitboxes
-
-
-# V. Special Missions
+# 7. Special Missions
 ### Base Infiltration
 
 ### Route Denial and Mining

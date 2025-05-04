@@ -22,10 +22,12 @@ def markdown_to_bbcode(markdown_text):
     # Convert images
     text = re.sub(r'!\[(.*?)\]\((.*?)\)', r'[img]\2[/img]', text)
     
-    # Convert unordered lists
-    text = re.sub(r'^[\*\-] (.*?)$', r'[*]\1', text, flags=re.MULTILINE)
+    # Convert lists with proper wrapping
+    text = re.sub(r'((?:^[\*\-] .*$\n?)+)', r'[list]\n\1[/list]\n', text, flags=re.MULTILINE)
+    text = re.sub(r'((?:^\d+\. .*$\n?)+)', r'[list]\n\1[/list]\n', text, flags=re.MULTILINE)
     
-    # Convert ordered lists (simple approach)
+    # Convert list items
+    text = re.sub(r'^[\*\-] (.*?)$', r'[*]\1', text, flags=re.MULTILINE)
     text = re.sub(r'^\d+\. (.*?)$', r'[*]\1', text, flags=re.MULTILINE)
     
     # Convert code blocks

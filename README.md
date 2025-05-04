@@ -19,6 +19,7 @@ You'll discover authentic military principles reimagined for the solo operator, 
 ## TO DO
 - Go through each section and add images.
 - Translations - French / German / Ukrainian / Swedish / Czech
+- Test change
 
 
 ---

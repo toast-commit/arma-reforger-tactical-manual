@@ -1,0 +1,31 @@
+name: Convert Markdown to BBCode
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Install pandoc
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc
+    
+    - name: Convert README to BBCode
+      run: |
+        pandoc README.md -f markdown -t bbcode -o steam_guide.bbcode
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add steam_guide.bbcode
+        git diff --staged --quiet || (git commit -m "Auto-update: Convert README.md to BBCode" && git push)

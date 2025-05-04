@@ -1,0 +1,56 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+~$*
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.logs
+
+# Office Temporary Files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build/Output Directories
+[Bb]uild/
+[Oo]ut/
+[Dd]ist/
+
+# Node/NPM (if you ever use any web tools)
+node_modules/
+npm-debug.log
+
+# Python (if you ever use scripts)
+__pycache__/
+*.pyc
+.env

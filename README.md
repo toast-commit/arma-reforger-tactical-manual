@@ -274,14 +274,12 @@ Do not approach a corner too closely. In most modern FPS, getting too tight to t
 Wherever possible, you should 'pie' the corner. Pieing is a deliberate clearing method where you slice the angle gradually in controlled steps, like slicing a pie. Instead of swinging wide and out of the corner exposing yourself, you move in wide arc, exposing only a narrow segment of the new area at a time. This method gives you a shifting field of view while keeping your profile small. Done correctly, pieing the corner allows you to clear unknown threats without over-committing. Your weapons remains in the ready position and your movements are controlled.
 
 However, if you already know the enemy's position because you've seen movement, heard a reload or spotted something that gives the enemy away, then you should not pie. You should pre-fire the corner.
-
-![[Pasted image 20250429205850.png]]
-
+![](CornerClearingTechnique.png)
 ### Clearing T Shaped Corners
 T-shaped corners are among the most hazardous terrain features in any structure. You cannot see left or right until you expose yourself — and an enemy could be lying in wait on either side, already aimed in.
 
 Most players commit blindly to one side and die for it. The smarter Rat slices both arcs gradually, exposing just a sliver of each sector in turn, as shown below:
-![[Pasted image 20250430013353.png]]
+![[TJunctionClearingTechnique.png]]
 
 This method lets you clear both corners incrementally before fully committing. It won’t make you bulletproof, but it massively reduces the chances of walking into a static ambush.
 
@@ -347,12 +345,12 @@ If the defender is behind a door and has already revealed their presence—wheth
 Clearing a door is one of the most dangerous actions a Rat can take in CQC. Every doorway is a potential choke point, a bottleneck where defenders enjoy the greatest advantage. This zone is known as the fatal funnel, a narrow area in and immediately beyond the doorway where all incoming movement is focused and where defenders will distinctively aim.
 
 The Rat must consider every doorway as a know hazard. After pre-firing the door they now have to open it - the picture below advises on the best practice of opening the door:
-![[Pasted image 20250430013432.png]]
+![[DoorClearingTechnique.png]]
 Much like real life Arma Reforger allows you to open the door side on as shown in the image, depending on the type of door and the hallway the Rat should immediately step back from the door to give space for them to go on to pie the angles in the room. Ideally when pieing the angles into the room you should be as far away from the door as is possible while still maintaining visual contact within so as to reduce your silhouette to the defender. **Do not crouch while doing this, defenders will likely be aiming for your centre mass and crouching lowers your face directly into the sight picture.**
 
 ### Slicing the Pie
 Once the door is opened, you slice the pie by clearing the interior of the room in small segments without entering. The ideal scenario is that the Rat is able to clear the room without entering the fatal funnel or being forced to breach into the room itself. The Rat moves incrementally along the outer arc of the doorway, slowly revealing more of the room slice by slice, as shown below:
-![[Pasted image 20250430013438.png]]
+![[DoorFatalFunnel.png]]
 Each lateral movement reveals a new “slice” of the interior, allowing you to scan corners and engage targets before they see you. This technique gives the Rat a fighting chance at spotting an enemy who may be holding an angle but hasn't yet seen your approach.
 
 This method is safest when used from a distance not right up against the doorframe. Being too close limits your arc of vision and increases the likelihood of weapon clipping or poor corner geometry revealing your position. Maintain at least one body’s width back from the threshold to keep your weapon in a ready state and ensure maximum field of view.
@@ -374,7 +372,7 @@ Most tactical literature assumes that more than one person is clearing rooms. Wi
 Room entry begins where slicing ends; when you've cleared every slice of the pie you can from the outside and you now need to breach to clear any remaining blind spots. This is usually the space behind the door, deep corners or anywhere line of sight was occluded dependent on the layout of the room.
 
 The doorway itself, the fatal funnel as we mentioned above, is the killzone where **you** die. It is where the defenders are most likely aiming. The longer you are there the higher your chance of death, once you commit to a room breach, you must move immediately, quickly and decisively.
-![[Pasted image 20250430013508.png]]
+![[DoorEntry.png]]
 As the image shows, the Rat selects an entry vector that aggressively slices away from the most likely threat position. This usually means entering at an oblique angle sweeping wide away from the doorframe while aiming into the uncleared corner. Doors that open into the room you are clearing may have enemies hiding behind them. If you've sliced the rest of the room this is usually the final blind spot and it is where you must go first.
 
 Once inside, pivot rapidly to cover the angles as you move. Do not stop inside the room unless it is clear, motion is a potent defence in these situations. Hesitation and delay gives a waiting defender time to correct their aim.
@@ -383,7 +381,7 @@ Once a room is clear, get out and do the next one.
 ### Clearing Stairs
 
 Stairs, much like the rest of CQC movement are incredibly dangerous places for the Rat to find themselves if a defender is possibly within the building and potentially defending the staircase. They are vertical funnels with zero cover, limited movement options and any movement up or down them is incredibly predictable.
-![[Pasted image 20250430013555.png]]
+![[StairClear.png]]
 In squad doctrine staircases are handled with mini bounding overwatch movements and splitting angles. For the solo Rat however none of that exists. You either creep up slowly as most players do and get blasted the second your helmet enters the frame, or you rush.
 
 The correct approach is to pie the base of the stairs first, for any persons stood on the first landing if there is one and then **rush**. Violence of action on defended stairs is a necessity and is your only chance out of your already slim chances of survival, I reiterate that if at all possible you should avoid having to clear an occupied building.

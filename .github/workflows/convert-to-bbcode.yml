@@ -14,14 +14,14 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       
-    - name: Install pandoc
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
     
     - name: Convert README to BBCode
       run: |
-        pandoc README.md -f markdown -t bbcode -o steam_guide.bbcode
+        python convert_to_bbcode.py README.md steam_guide.bbcode
     
     - name: Commit and push if changed
       run: |

@@ -54,3 +54,5 @@ npm-debug.log
 __pycache__/
 *.pyc
 .env
+arma-reforger-tactical-manual.md
+attachments/attachments.md
